@@ -16,13 +16,13 @@ public class NumbersActivity extends AppCompatActivity {
 
     private MediaPlayer mMediaPlayer;
     //Sıkca Kullanılacagı icin Global Olarak tanımladık , defalarca new yapmak yerine her zaman bunu kullanacagız
-    private MediaPlayer.OnCompletionListener mOnCompletionListener = new MediaPlayer.OnCompletionListener() {
+/*    private MediaPlayer.OnCompletionListener mOnCompletionListener = new MediaPlayer.OnCompletionListener() {
         @Override
         public void onCompletion(MediaPlayer mediaPlayer) {
             releaseMediaPlayer();
         }
     };
-
+*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -78,7 +78,7 @@ public class NumbersActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                releaseMediaPlayer();
+
 
               mMediaPlayer = MediaPlayer.create(NumbersActivity.this, words.get(position).getResourceSoundId()  );
               mMediaPlayer.start();
@@ -94,7 +94,7 @@ public class NumbersActivity extends AppCompatActivity {
                 });*/
 
                 // MEDIA PLAYER'A OZEL  OnCompletionListener'imizi Eklemek
-                mMediaPlayer.setOnCompletionListener(mOnCompletionListener);
+                //mMediaPlayer.setOnCompletionListener(mOnCompletionListener);
 
 
             }
