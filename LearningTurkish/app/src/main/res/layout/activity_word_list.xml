@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- HER BIR KATEGORI ICIN AYRI AYRI XML DOSYASI YERINE (HEPSININ YAPISI ZATEN AYNI DIYE)
+       YALNIZCA 1 TANE acitivty_word_list Olusturduk ve her katehgro icin bunu kullanabiliriz-->
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/list"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/cardview_light_background"
+
+android:horizontalSpacing="16dp"
+android:verticalSpacing="36dp" />
