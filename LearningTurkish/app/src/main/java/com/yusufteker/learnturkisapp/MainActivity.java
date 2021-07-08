@@ -25,10 +25,6 @@ public class MainActivity extends AppCompatActivity {
         TextView familyTextView = findViewById(R.id.family);
         TextView colorsTextView = findViewById(R.id.colors);
 
-       // ONCLICK ///////////////////////////////////////
-
-        //HER BIR KATEGORI ICIN XML DOSYASINA GEREK YOK CUNKU HEPSININ GENEL YAPISI AYNI
-        // O YUZDEN 1 TANESINI activity_word_list'i her biri icin kullanabiliriz
         numbersTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -58,10 +54,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        //////////////////////////////////////////////////////////////
-
-
-
 
     }
 

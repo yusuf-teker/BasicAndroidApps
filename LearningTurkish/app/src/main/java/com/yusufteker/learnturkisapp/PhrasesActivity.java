@@ -26,8 +26,7 @@ public class PhrasesActivity extends AppCompatActivity {
         words.add(new Word("I couldn’t agree with you more.","Sana aha fazla katılıyor olamazdım."));
         words.add(new Word(" I’m not so sure about that.","Bu konuda emin değilim."));
         WordAdapter wordsAdapter = new WordAdapter(this, words, R.color.category_phrases);
-        ListView listView = findViewById(R.id.list); // Aynı ListView ID sini Diger Activitylerdede kullandık sorun olmamasının nedeni
-        // Her Seferinde Icerigini tamamen Degistiriyoruz
+        ListView listView = findViewById(R.id.list);
         listView.setAdapter(wordsAdapter);
 
     }

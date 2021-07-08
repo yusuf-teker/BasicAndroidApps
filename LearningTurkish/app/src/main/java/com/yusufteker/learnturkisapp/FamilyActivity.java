@@ -23,8 +23,7 @@ public class FamilyActivity extends AppCompatActivity {
         words.add(new Word("son","oğul", R.drawable.family_son));
         words.add(new Word("daughter","kız", R.drawable.family_daughter));
         WordAdapter wordsAdapter = new WordAdapter(this, words, R.color.category_family);
-        ListView listView = findViewById(R.id.list); // Aynı ListView ID sini Diger Activitylerdede kullandık sorun olmamasının nedeni
-            // Her Seferinde Icerigini tamamen Degistiriyoruz
+        ListView listView = findViewById(R.id.list);
         listView.setAdapter(wordsAdapter);
 
 

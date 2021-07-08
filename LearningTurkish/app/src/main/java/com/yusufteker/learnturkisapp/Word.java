@@ -1,6 +1,6 @@
 package com.yusufteker.learnturkisapp;
 
-public class Word { // BU KULLANACAGIMIZ DATANIN SEKLI GIBI BISEY
+public class Word {
     private String mWordEn;
     private String mWordTr;
     private int resourceImageId = -1;
