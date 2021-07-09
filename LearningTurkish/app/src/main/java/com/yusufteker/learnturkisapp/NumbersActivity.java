@@ -2,6 +2,10 @@ package com.yusufteker.learnturkisapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
+import android.media.AudioAttributes;
+import android.media.AudioFocusRequest;
+import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
@@ -15,7 +19,6 @@ import java.util.ArrayList;
 public class NumbersActivity extends AppCompatActivity {
 
     private MediaPlayer mMediaPlayer;
-    //
     private MediaPlayer.OnCompletionListener mOnCompletionListener = new MediaPlayer.OnCompletionListener() {
         @Override
         public void onCompletion(MediaPlayer mediaPlayer) {
@@ -23,11 +26,41 @@ public class NumbersActivity extends AppCompatActivity {
         }
     };
 
+    //AudioFocus
+    private AudioManager mAudioManager;
+    AudioAttributes playbackAttributes;
+    AudioFocusRequest focusRequest;
+    AudioManager.OnAudioFocusChangeListener audioFocusChangeListener = new AudioManager.OnAudioFocusChangeListener() {
+        @Override
+        public void onAudioFocusChange(int focusChange) {
+            if (focusChange == AudioManager.AUDIOFOCUS_GAIN) {
+                mMediaPlayer.start();
+            } else if (focusChange == AudioManager.AUDIOFOCUS_LOSS_TRANSIENT) {
+                mMediaPlayer.pause();
+                mMediaPlayer.seekTo(0);
+            } else if (focusChange == AudioManager.AUDIOFOCUS_LOSS) {
+                mMediaPlayer.release();
+            }
+        }
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_word_list);
+
+
+        mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+        playbackAttributes = new AudioAttributes.Builder()
+                .setUsage(AudioAttributes.USAGE_GAME)
+                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+                .build();
+        focusRequest = new AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+                .setAudioAttributes(playbackAttributes)
+                .setAcceptsDelayedFocusGain(true)
+                .setOnAudioFocusChangeListener(audioFocusChangeListener)
+                .build();
+        final int audioFocusRequest = mAudioManager.requestAudioFocus(focusRequest);
 
         final ArrayList<Word> words = new ArrayList<>();
 
@@ -42,9 +75,7 @@ public class NumbersActivity extends AppCompatActivity {
         words.add(new Word("nine","dokuz", R.drawable.number_nine, R.raw.dokuz));
         words.add(new Word("ten","on", R.drawable.number_ten, R.raw.on));
 
-
-       WordAdapter wordsAdapter = new WordAdapter(this, words, R.color.category_numbers);
-
+        WordAdapter wordsAdapter = new WordAdapter(this, words, R.color.category_numbers);
 
         ListView listView = findViewById(R.id.list);
         listView.setAdapter(wordsAdapter);
@@ -53,17 +84,16 @@ public class NumbersActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                releaseMediaPlayer();
+              releaseMediaPlayer();
               mMediaPlayer = MediaPlayer.create(NumbersActivity.this, words.get(position).getResourceSoundId()  );
-              mMediaPlayer.start();
+                if (audioFocusRequest == AudioManager.AUDIOFOCUS_REQUEST_GRANTED) {
+                    mMediaPlayer.start(); /***/
+                }
 
               mMediaPlayer.setOnCompletionListener(mOnCompletionListener);
 
-
             }
-
         });
-
     }
 
     @Override
@@ -76,6 +106,7 @@ public class NumbersActivity extends AppCompatActivity {
         if (mMediaPlayer != null) {
             mMediaPlayer.release();
             mMediaPlayer = null;
+            mAudioManager.abandonAudioFocusRequest(focusRequest);
         }
     }
 
