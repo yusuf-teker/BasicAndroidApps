@@ -1,0 +1,21 @@
+com/yusufteker/learnturkisapp/FamilyActivity.java
+ com.yusufteker.learnturkisapp.FamilyActivity
+com/yusufteker/learnturkisapp/BuildConfig.java
+ com.yusufteker.learnturkisapp.BuildConfig
+com/yusufteker/learnturkisapp/MainActivity.java
+ com.yusufteker.learnturkisapp.MainActivity
+ com.yusufteker.learnturkisapp.MainActivity$1
+ com.yusufteker.learnturkisapp.MainActivity$2
+ com.yusufteker.learnturkisapp.MainActivity$3
+ com.yusufteker.learnturkisapp.MainActivity$4
+com/yusufteker/learnturkisapp/WordAdapter.java
+ com.yusufteker.learnturkisapp.WordAdapter
+com/yusufteker/learnturkisapp/ColorsActivity.java
+ com.yusufteker.learnturkisapp.ColorsActivity
+com/yusufteker/learnturkisapp/PhrasesActivity.java
+ com.yusufteker.learnturkisapp.PhrasesActivity
+com/yusufteker/learnturkisapp/NumbersActivity.java
+ com.yusufteker.learnturkisapp.NumbersActivity
+ com.yusufteker.learnturkisapp.NumbersActivity$1
+com/yusufteker/learnturkisapp/Word.java
+ com.yusufteker.learnturkisapp.Word

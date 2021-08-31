@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yusufteker.learnturkisapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] D:\Android studio gradle\gradle-7.1-rc-1\caches\transforms-2\files-2.1\07adfc08fe16d3453ab9291511ec05fe\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/Theme.LearnTurkisApp" >
+19-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:11:9-52
+20        <activity
+20-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:12:9-78
+21            android:name="com.yusufteker.learnturkisapp.NumbersActivity"
+21-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:12:19-50
+22            android:label="Numbers" />
+22-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:12:51-74
+23        <activity
+23-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:13:9-82
+24            android:name="com.yusufteker.learnturkisapp.FamilyActivity"
+24-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:13:19-49
+25            android:label="Family Members" />
+25-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:13:50-80
+26        <activity
+26-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:14:9-76
+27            android:name="com.yusufteker.learnturkisapp.ColorsActivity"
+27-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:14:19-49
+28            android:label="Colours" />
+28-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:14:50-73
+29        <activity
+29-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:15:9-76
+30            android:name="com.yusufteker.learnturkisapp.PhrasesActivity"
+30-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:15:19-50
+31            android:label="Phrases" />
+31-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:15:51-74
+32        <activity android:name="com.yusufteker.learnturkisapp.MainActivity" >
+32-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:16:9-22:20
+32-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:16:19-47
+33            <intent-filter>
+33-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:17:13-21:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:18:17-69
+34-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:18:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:20:17-77
+36-->E:\Programming\Android\LearnTurkisApp\app\src\main\AndroidManifest.xml:20:27-74
+37            </intent-filter>
+38        </activity>
+39    </application>
+40
+41</manifest>

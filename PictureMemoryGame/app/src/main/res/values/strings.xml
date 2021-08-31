@@ -1,4 +1,18 @@
 <resources>
-    <string name="app_name">PictureMemoryGame</string>
+    <string name="app_name">Memory Game</string>
     <string name="start_game">Start Game</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_score_won">Your score is %1$d out of 100</string>
+    <string name="show_score_lose">Your score is %1$d out of 100\n\nYou must have at least 70 out of 100 to win the game.</string>
+    <string name="how_to_play"> * There are 12 cards consisting of 6 different pictures.\n
+        * You can open 2 cards each time.\n
+        * If these two cards are the same then the cards match each other.\n
+        * The game ends when all the cards match each other.</string>
+    <string name="congratulations">Congratulations\nHighscore: %1$d</string>
+    <string name="congratulations2">Congratulations</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_text">Score Text</string>
+    <string name="play_again">PLAY AGAIN</string>
 </resources>

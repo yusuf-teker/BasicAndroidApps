@@ -1,0 +1,30 @@
+com/yusufteker/picturememorygame/databinding/FragmentHomeBinding.java
+ com.yusufteker.picturememorygame.databinding.FragmentHomeBinding
+com/yusufteker/picturememorygame/DataBindingTriggerClass.java
+ com.yusufteker.picturememorygame.DataBindingTriggerClass
+com/yusufteker/picturememorygame/databinding/FragmentGameOverBinding.java
+ com.yusufteker.picturememorygame.databinding.FragmentGameOverBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/yusufteker/picturememorygame/databinding/FragmentGameWonBinding.java
+ com.yusufteker.picturememorygame.databinding.FragmentGameWonBinding
+com/yusufteker/picturememorygame/BR.java
+ com.yusufteker.picturememorygame.BR
+com/yusufteker/picturememorygame/databinding/ActivityMainBindingImpl.java
+ com.yusufteker.picturememorygame.databinding.ActivityMainBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/yusufteker/picturememorygame/DataBinderMapperImpl.java
+ com.yusufteker.picturememorygame.DataBinderMapperImpl
+ com.yusufteker.picturememorygame.DataBinderMapperImpl$InnerBrLookup
+ com.yusufteker.picturememorygame.DataBinderMapperImpl$InnerLayoutIdLookup
+com/yusufteker/picturememorygame/databinding/FragmentHowToPlayBinding.java
+ com.yusufteker.picturememorygame.databinding.FragmentHowToPlayBinding
+com/yusufteker/picturememorygame/databinding/ActivityMainBinding.java
+ com.yusufteker.picturememorygame.databinding.ActivityMainBinding
+com/yusufteker/picturememorygame/BuildConfig.java
+ com.yusufteker.picturememorygame.BuildConfig
+com/yusufteker/picturememorygame/databinding/FragmentGameBinding.java
+ com.yusufteker.picturememorygame.databinding.FragmentGameBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_five.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_five.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_son.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_son.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_grandfather.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_mustard_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_outline_play_arrow_black_36.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\outline_play_arrow_black_36.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_gray.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_gray.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_play_arrow_black_18.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\outline_play_arrow_black_18.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_brown.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_brown.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_three.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_younger_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_seven.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_seven.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_play_arrow_black_18.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\outline_play_arrow_black_18.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_three.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_gray.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_gray.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_one.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_one.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_on.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\on.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_son.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_son.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_bes.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\bes.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_six.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_six.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_oldukcaiyi.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\oldukcaiyi.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_grandfather.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_play_arrow_black_48.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\outline_play_arrow_black_48.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_benimicinhicfarketmez.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\benimicinhicfarketmez.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_ten.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_ten.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_daughter.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_daughter.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_dusty_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_red.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_red.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_nine.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_nine.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_daughter.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_dusty_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_one.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_one.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_white.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_white.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_mother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_mother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_play_arrow_black_36.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\outline_play_arrow_black_36.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_mother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_mother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_white.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_white.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_eight.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_eight.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_grandmother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_black.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_black.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_four.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_four.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_play_arrow_black_20.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\outline_play_arrow_black_20.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_two.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_two.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_sorundegil.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\sorundegil.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_four.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_four.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_seninlesohbetetmekguzeldi.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\seninlesohbetetmekguzeldi.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_herhangibirfikrinvarmi.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\herhangibirfikrinvarmi.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_nine.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_nine.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_daughter.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_daughter.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_play_arrow_black_36.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\outline_play_arrow_black_36.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_brown.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_brown.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_iki.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\iki.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_play_arrow_black_18.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\outline_play_arrow_black_18.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_five.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_five.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_two.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_two.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_two.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_two.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_brown.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_brown.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_older_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_nine.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_nine.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_grandfather.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_younger_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_dusty_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_older_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_older_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_five.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_five.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_red.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_red.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_mustard_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_play_arrow_black_24.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\outline_play_arrow_black_24.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_older_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_grandmother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_son.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_son.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_play_arrow_black_24.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\outline_play_arrow_black_24.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_hicbirfikrimyok.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\hicbirfikrimyok.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_mustard_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_two.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_two.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_five.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_five.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_dokuz.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\dokuz.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_father.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_father.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_green.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_green.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_outline_play_arrow_black_48.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\outline_play_arrow_black_48.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_brown.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_brown.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_mother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_mother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_five.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_five.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_grandmother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_brown.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_brown.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_black.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_black.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_one.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_one.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_eight.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_eight.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_seven.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_seven.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_four.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_four.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_dusty_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_black.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_black.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_alti.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\alti.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_three.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_six.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_six.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_eight.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_eight.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_gercektenminnetarim.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\gercektenminnetarim.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_white.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_white.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_grandmother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_sekiz.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\sekiz.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_four.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_four.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_older_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_one.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_one.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_older_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_older_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_younger_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_red.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_red.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_word_list.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\layout\\activity_word_list.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_dusty_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_dusty_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_bukonudaemindegilim.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\bukonudaemindegilim.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_one.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_one.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_play_arrow_black_48.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\outline_play_arrow_black_48.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_green.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_green.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_older_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_play_arrow_black_20.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\outline_play_arrow_black_20.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_three.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_grandmother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_grandmother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_ten.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_ten.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_play_arrow_black_20.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\outline_play_arrow_black_20.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_father.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_father.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_mother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_mother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_eight.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_eight.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_nine.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_nine.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_number_seven.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\number_seven.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_play_arrow_black_24.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\outline_play_arrow_black_24.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_son.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_son.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_outline_play_arrow_black_20.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\outline_play_arrow_black_20.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_son.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_son.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_bir.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\bir.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_play_arrow_black_48.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\outline_play_arrow_black_48.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_gray.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_gray.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_six.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_six.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_two.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_two.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_older_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_mustard_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_play_arrow_black_36.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\outline_play_arrow_black_36.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_gray.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_gray.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_red.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_red.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_uc.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\uc.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_ten.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_ten.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_younger_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_black.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_black.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_green.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_green.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_white.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_white.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_color_green.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\color_green.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_dort.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\dort.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_father.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_father.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_number_four.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\number_four.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_younger_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_play_arrow_black_48.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\outline_play_arrow_black_48.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_sanadahafazlakkatiliyorolamazdim.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\sanadahafazlakkatiliyorolamazdim.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_color_black.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\color_black.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_play_arrow_black_24.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\outline_play_arrow_black_24.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_older_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_ten.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_ten.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_eight.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_eight.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_younger_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_younger_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_naber.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\naber.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\raw_yedi.mp3.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\raw\\yedi.mp3"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_outline_play_arrow_black_24.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\outline_play_arrow_black_24.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_color_green.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\color_green.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_white.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_white.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_daughter.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_outline_play_arrow_black_18.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\outline_play_arrow_black_18.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_mustard_yellow.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_mustard_yellow.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_younger_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_older_sister.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_older_sister.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_play_arrow_24.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable\\outline_play_arrow_24.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_younger_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_six.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_six.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_father.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_father.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_family_grandfather.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xhdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_play_arrow_black_36.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\outline_play_arrow_black_36.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_color_gray.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\color_gray.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_grandfather.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_grandfather.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_seven.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_seven.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_family_younger_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\family_younger_brother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_three.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_color_red.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\color_red.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_play_arrow_black_18.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\outline_play_arrow_black_18.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_family_mother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-mdpi\\family_mother.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_ten.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_ten.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_number_nine.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxhdpi\\number_nine.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_play_arrow_black_20.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\outline_play_arrow_black_20.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_seven.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\number_seven.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_father.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_father.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_family_daughter.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\family_daughter.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_number_six.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-xxxhdpi\\number_six.png"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_family_younger_brother.png.flat",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\LearningTurkish\\app\\src\\main\\res\\drawable-hdpi\\family_younger_brother.png"
+    }
+]

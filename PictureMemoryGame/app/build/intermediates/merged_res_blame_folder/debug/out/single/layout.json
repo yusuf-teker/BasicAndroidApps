@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_won.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\fragment_game_won.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game_over.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\fragment_game_over.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_how_to_play.xml",
+        "source": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\src\\main\\res\\layout\\fragment_how_to_play.xml"
+    }
+]
