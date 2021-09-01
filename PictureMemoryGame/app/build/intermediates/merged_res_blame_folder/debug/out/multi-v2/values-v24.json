@@ -4,7 +4,7 @@
             "outputFile": "C:\\Programming\\Android\\BasicAndroidApps\\PictureMemoryGame\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yusuf\\.gradle\\caches\\transforms-2\\files-2.1\\4bb3da035459dfef080ac77b1f055909\\appcompat-1.3.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Yusuf\\.gradle\\caches\\transforms-3\\2ca50660f59e666e09670ab64fc44ffe\\transformed\\appcompat-1.3.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Yusuf\\.gradle\\caches\\transforms-2\\files-2.1\\37982ad12a14b69366f574ef2b8d4f25\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Yusuf\\.gradle\\caches\\transforms-3\\2e9766ec94d58aab91560baa3bcac187\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

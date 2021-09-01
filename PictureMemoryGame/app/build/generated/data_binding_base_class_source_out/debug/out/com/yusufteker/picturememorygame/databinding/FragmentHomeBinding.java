@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.yusufteker.picturememorygame.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -54,7 +55,7 @@ public final class FragmentHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.playButton;
-      AppCompatButton playButton = rootView.findViewById(id);
+      AppCompatButton playButton = ViewBindings.findChildViewById(rootView, id);
       if (playButton == null) {
         break missingId;
       }

@@ -11,6 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.yusufteker.picturememorygame.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -69,25 +70,25 @@ public final class FragmentHowToPlayBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.cardView;
-      CardView cardView = rootView.findViewById(id);
+      CardView cardView = ViewBindings.findChildViewById(rootView, id);
       if (cardView == null) {
         break missingId;
       }
 
       id = R.id.howToPlayImage;
-      ImageView howToPlayImage = rootView.findViewById(id);
+      ImageView howToPlayImage = ViewBindings.findChildViewById(rootView, id);
       if (howToPlayImage == null) {
         break missingId;
       }
 
       id = R.id.textView1;
-      TextView textView1 = rootView.findViewById(id);
+      TextView textView1 = ViewBindings.findChildViewById(rootView, id);
       if (textView1 == null) {
         break missingId;
       }
 
       id = R.id.textView3;
-      TextView textView3 = rootView.findViewById(id);
+      TextView textView3 = ViewBindings.findChildViewById(rootView, id);
       if (textView3 == null) {
         break missingId;
       }

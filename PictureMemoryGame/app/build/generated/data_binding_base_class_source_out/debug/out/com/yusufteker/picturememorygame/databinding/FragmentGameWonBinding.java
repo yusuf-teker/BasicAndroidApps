@@ -11,6 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.yusufteker.picturememorygame.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -70,25 +71,25 @@ public final class FragmentGameWonBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.imageView;
-      ImageView imageView = rootView.findViewById(id);
+      ImageView imageView = ViewBindings.findChildViewById(rootView, id);
       if (imageView == null) {
         break missingId;
       }
 
       id = R.id.playAgainButton;
-      AppCompatButton playAgainButton = rootView.findViewById(id);
+      AppCompatButton playAgainButton = ViewBindings.findChildViewById(rootView, id);
       if (playAgainButton == null) {
         break missingId;
       }
 
       id = R.id.score_text;
-      TextView scoreText = rootView.findViewById(id);
+      TextView scoreText = ViewBindings.findChildViewById(rootView, id);
       if (scoreText == null) {
         break missingId;
       }
 
       id = R.id.textView;
-      TextView textView = rootView.findViewById(id);
+      TextView textView = ViewBindings.findChildViewById(rootView, id);
       if (textView == null) {
         break missingId;
       }

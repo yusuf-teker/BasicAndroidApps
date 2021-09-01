@@ -11,6 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.gridlayout.widget.GridLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.yusufteker.picturememorygame.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -115,85 +116,85 @@ public final class FragmentGameBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.gridLayout;
-      GridLayout gridLayout = rootView.findViewById(id);
+      GridLayout gridLayout = ViewBindings.findChildViewById(rootView, id);
       if (gridLayout == null) {
         break missingId;
       }
 
       id = R.id.imageView1;
-      ImageButton imageView1 = rootView.findViewById(id);
+      ImageButton imageView1 = ViewBindings.findChildViewById(rootView, id);
       if (imageView1 == null) {
         break missingId;
       }
 
       id = R.id.imageView10;
-      ImageButton imageView10 = rootView.findViewById(id);
+      ImageButton imageView10 = ViewBindings.findChildViewById(rootView, id);
       if (imageView10 == null) {
         break missingId;
       }
 
       id = R.id.imageView11;
-      ImageButton imageView11 = rootView.findViewById(id);
+      ImageButton imageView11 = ViewBindings.findChildViewById(rootView, id);
       if (imageView11 == null) {
         break missingId;
       }
 
       id = R.id.imageView12;
-      ImageButton imageView12 = rootView.findViewById(id);
+      ImageButton imageView12 = ViewBindings.findChildViewById(rootView, id);
       if (imageView12 == null) {
         break missingId;
       }
 
       id = R.id.imageView2;
-      ImageButton imageView2 = rootView.findViewById(id);
+      ImageButton imageView2 = ViewBindings.findChildViewById(rootView, id);
       if (imageView2 == null) {
         break missingId;
       }
 
       id = R.id.imageView3;
-      ImageButton imageView3 = rootView.findViewById(id);
+      ImageButton imageView3 = ViewBindings.findChildViewById(rootView, id);
       if (imageView3 == null) {
         break missingId;
       }
 
       id = R.id.imageView4;
-      ImageButton imageView4 = rootView.findViewById(id);
+      ImageButton imageView4 = ViewBindings.findChildViewById(rootView, id);
       if (imageView4 == null) {
         break missingId;
       }
 
       id = R.id.imageView5;
-      ImageButton imageView5 = rootView.findViewById(id);
+      ImageButton imageView5 = ViewBindings.findChildViewById(rootView, id);
       if (imageView5 == null) {
         break missingId;
       }
 
       id = R.id.imageView6;
-      ImageButton imageView6 = rootView.findViewById(id);
+      ImageButton imageView6 = ViewBindings.findChildViewById(rootView, id);
       if (imageView6 == null) {
         break missingId;
       }
 
       id = R.id.imageView7;
-      ImageButton imageView7 = rootView.findViewById(id);
+      ImageButton imageView7 = ViewBindings.findChildViewById(rootView, id);
       if (imageView7 == null) {
         break missingId;
       }
 
       id = R.id.imageView8;
-      ImageButton imageView8 = rootView.findViewById(id);
+      ImageButton imageView8 = ViewBindings.findChildViewById(rootView, id);
       if (imageView8 == null) {
         break missingId;
       }
 
       id = R.id.imageView9;
-      ImageButton imageView9 = rootView.findViewById(id);
+      ImageButton imageView9 = ViewBindings.findChildViewById(rootView, id);
       if (imageView9 == null) {
         break missingId;
       }
 
       id = R.id.simpleChronometer;
-      Chronometer simpleChronometer = rootView.findViewById(id);
+      Chronometer simpleChronometer = ViewBindings.findChildViewById(rootView, id);
       if (simpleChronometer == null) {
         break missingId;
       }
